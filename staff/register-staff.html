@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+<head>
+    <meta charset="utf-8" />
+    <title>Register | UTeM SportArena</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta content="A fully featured admin theme which can be used to build CRM, CMS, etc." name="description" />
+    <meta content="Coderthemes" name="author" />
+    <!-- App favicon -->
+    <link rel="shortcut icon" href="images/favicon.ico">
+
+    <!-- App css -->
+    <link href="../css/icons.min.css" rel="stylesheet" type="text/css" />
+    <link href="../css/app.min.css" rel="stylesheet" type="text/css" id="light-style" />
+    <link href="../css/app-dark.min.css" rel="stylesheet" type="text/css" id="dark-style" />
+
+
+
+</head>
+
+<style>
+    body{
+       background-color: rgb(29, 40, 50);
+       background-repeat: no-repeat;
+       background-size: 100%;
+   } 
+   </style>
+<body class="loading "
+    data-layout-config='{"leftSideBarTheme":"dark","layoutBoxed":false, "leftSidebarCondensed":false, "leftSidebarScrollable":false,"darkMode":false, "showRightSidebarOnStart": true}'>
+
+    <div class="account-pages pt-2 pt-sm-5 pb-4 pb-sm-5">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-xxl-5 col-lg-5">
+                    <div class="card">
+                        <!-- Logo-->
+                        <div class="card-header pt-4 pb-4 text-center bg-secondary">
+                            <a href="../index.html" class=".fs-2" style="color: black;" >
+                                <span><img src="../images/logo_utem.png" alt="" height="78"></span>
+
+                            </a>
+                            <!-- <a href="index.html">
+                                <span><img src="assets/images/logo.png" alt="" height="18"></span>
+                            </a> -->
+                        </div>
+
+                        <div class="card-body p-3">
+
+                            <div class="text-center w-75 m-auto">
+                                <h4 class="text-dark-50 text-center  fw-bold" style="color:black;">STAFF REGISTRATION</h4>
+                                <p class="text-muted">click here to<a href="../student/register-student.html"
+                                    class="text-success ms-1"><b>Student Sign In</b></a></p>
+                            </div>
+
+                            <form action="../sql/registerStaff.php"  method="post">
+
+                                <div class="mb-2">
+                                    <label for="staffName" class="form-label" style="color:black;">Staff Name</label>
+                                        <div class="input-group input-group-merge">
+                                            <input class="form-control" type="text" id="staffName" name="staffName"
+                                            placeholder="Enter your name" required>
+                                            <div class="input-group-text" data-password="false">
+                                                <span class="dripicons-user"></span>
+                                            </div>
+                                        </div>
+                                </div>
+
+                                <div class="mb-2">
+                                    <label for="staffEmail" class="form-label" style="color:black;">Staff Email</label>
+                                        <div class="input-group input-group-merge">
+                                            <input class="form-control" type="text" id="staffEmail" name="staffEmail"
+                                                placeholder="Use your staff email" required>
+                                                <div class="input-group-text" data-password="false">
+                                                    <span class="dripicons-mail"></span>
+                                                </div>
+                                        </div>
+                                </div>
+
+                                <div class="row">
+
+                                <div class="col-lg-6"> 
+                                    <label for="staffId" class="form-label" style="color:black;">Staff ID Number</label>
+                                        <div class="input-group input-group-merge">
+                                            <input class="form-control" type="text" id="staffId" name="staffId"
+                                                placeholder="Enter staff Id number" required>
+                                                <div class="input-group-text" data-password="false">
+                                                    <span class="dripicons-document"></span>
+                                                </div>
+                                        </div>
+                                </div>
+
+                                <div class="col-lg-6 mb-2">
+                                    <label for="staffNum" class="form-label" style="color:black;">Staff Phone Number</label>
+                                    <div class="input-group input-group-merge">
+                                        <input class="form-control" type="text" id="staffNum" name="staffNum"
+                                            placeholder="Enter phone number" required>
+                                            <div class="input-group-text" data-password="false">
+                                                <span class="dripicons-to-do"></span>
+                                            </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                                <div class="mb-3">
+                                    <label for="staffPassword" class="form-label" style="color:black;">Password</label>
+                                    <div class="input-group input-group-merge">
+                                        <input type="password" id="staffPassword" class="form-control" name="staffPassword"
+                                            placeholder="Enter your password">
+                                        <div class="input-group-text" data-password="false">
+                                            <span class="dripicons-lock"></span>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="mb-3 text-center">
+                                    <button class="btn btn-success" type="submit"> Sign Up </button>
+                                </div>
+                                
+                                <div class="row mt-3">
+                                    <div class="col-12 text-center">
+                                        <p class="text-muted">Already have account? <a href="../index.html"
+                                                class="text-primary ms-1"><b>Login</b></a></p>
+                                    </div> <!-- end col-->
+                                </div>
+                                <!-- end row -->
+                            </form>
+                        </div> <!-- end card-body -->
+                    </div>
+                    <!-- end card -->
+                </div> <!-- end col -->
+            </div>
+            <!-- end row -->
+        </div>
+        <!-- end container -->
+    </div>
+    <!-- end page -->
+    <footer class="footer footer-alt text-white font-weight-lighter text-sm text-center">
+        Developed By
+        <b class="text-success">Safwan Yusop</b>
+        <br>2022 @ PSM 1 - UTeM
+    </footer>
+
+    <!-- bundle -->
+    <script src="../js/vendor.min.js"></script>
+    <script src="../js/app.min.js"></script>
+</body>
+
+<!-- Mirrored from coderthemes.com/hyper/saas/pages-register.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Nov 2021 13:43:15 GMT -->
+
+</html>
