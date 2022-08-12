@@ -1,15 +1,18 @@
 # UTeM-SportArena-System
 Web based system for UTeM student to book Sport Facility
 
-Login Page
+*Login Page*
+
 ![image](https://user-images.githubusercontent.com/80865545/184347610-9d2803e6-3456-4040-8c69-1da0371fc406.png)
 
 
-Registration Page
+*Registration Page*
+
 ![image](https://user-images.githubusercontent.com/80865545/184347681-b73bca20-7a5f-4c5e-8ac8-61205da319ca.png)
 
 
-Admin Module
+*Admin Module*
+
 ![image](https://user-images.githubusercontent.com/80865545/184347937-9af08883-a54d-4990-8ec2-b6f733f3869b.png)
 
 ![image](https://user-images.githubusercontent.com/80865545/184347966-4662f44c-75e8-45a8-be2b-28cfa7a2452e.png)
@@ -17,7 +20,8 @@ Admin Module
 ![image](https://user-images.githubusercontent.com/80865545/184347981-229602c7-573a-45f8-a8bc-0c84b9f4c172.png)
 
 
-Staff Module
+*Staff Module*
+
 ![image](https://user-images.githubusercontent.com/80865545/184348033-53857750-c181-410a-94c0-79dfa619b9da.png)
 
 ![image](https://user-images.githubusercontent.com/80865545/184348066-4cb4b9e6-4555-4f09-96f4-378ec4f93bf1.png)
@@ -36,7 +40,8 @@ Staff Module
 ![image](https://user-images.githubusercontent.com/80865545/184348173-b960e830-e58c-4610-b725-2bbd01f5cc76.png)
 
 
-Student Module
+*Student Module*
+
 ![image](https://user-images.githubusercontent.com/80865545/184348277-44de53b2-2cf5-4cf5-968d-a6d970de9f12.png)
 
 ![image](https://user-images.githubusercontent.com/80865545/184348212-ef5d5abc-a126-442f-8a6e-10b6f00c76c9.png)
@@ -48,9 +53,6 @@ Student Module
 ![image](https://user-images.githubusercontent.com/80865545/184348233-bd2174b5-81f7-4747-99d5-869edb68e001.png)
 
 ![image](https://user-images.githubusercontent.com/80865545/184348353-736866d5-fff5-4b8e-a523-f42f807b554e.png)
-
-
-
 
 
 
