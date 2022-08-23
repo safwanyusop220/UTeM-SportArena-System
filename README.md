@@ -1,7 +1,7 @@
 # UTeM-SportArena-System
 Web based system for UTeM student to book Sport Facility
 
-#Login Page#
+##Login Page
 
 ![image](https://user-images.githubusercontent.com/80865545/184349685-91cb990c-212e-4c43-b0d8-d7aa3707f4b6.png)
 
@@ -12,12 +12,12 @@ Web based system for UTeM student to book Sport Facility
 ![image](https://user-images.githubusercontent.com/80865545/184347610-9d2803e6-3456-4040-8c69-1da0371fc406.png)
 
 
-#Registration Page#
+##Registration Page#
 
 ![image](https://user-images.githubusercontent.com/80865545/184347681-b73bca20-7a5f-4c5e-8ac8-61205da319ca.png)
 
 
-#Admin Module#
+##Admin Module#
 
 ![image](https://user-images.githubusercontent.com/80865545/184347937-9af08883-a54d-4990-8ec2-b6f733f3869b.png)
 
@@ -26,7 +26,7 @@ Web based system for UTeM student to book Sport Facility
 ![image](https://user-images.githubusercontent.com/80865545/184347981-229602c7-573a-45f8-a8bc-0c84b9f4c172.png)
 
 
-#Staff Module#
+##Staff Module#
 ![image](https://user-images.githubusercontent.com/80865545/186131303-e42837b4-ca07-4331-8387-b09c942486c3.png)
 
 ![image](https://user-images.githubusercontent.com/80865545/186135667-341cef4c-950f-4796-8b25-670a4bd5e932.png)
@@ -44,7 +44,7 @@ Web based system for UTeM student to book Sport Facility
 ![image](https://user-images.githubusercontent.com/80865545/186136664-f96c1ca5-c792-4d84-979f-5db2c19d6f8b.png)
 
 
-#Student Module#
+##Student Module#
 
 ![image](https://user-images.githubusercontent.com/80865545/184348212-ef5d5abc-a126-442f-8a6e-10b6f00c76c9.png)
 
