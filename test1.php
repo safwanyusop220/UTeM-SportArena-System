@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from coderthemes.com/hyper/saas/pages-register.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Nov 2021 13:43:15 GMT -->
 
 <head>
     <meta charset="utf-8" />
@@ -144,6 +143,5 @@
     <script src="js/app.min.js"></script>
 </body>
 
-<!-- Mirrored from coderthemes.com/hyper/saas/pages-register.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Nov 2021 13:43:15 GMT -->
 
 </html>

@@ -89,5 +89,5 @@
         
     </body>
 
-<!-- Mirrored from coderthemes.com/hyper/saas/pages-logout.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 20 Nov 2021 13:43:15 GMT -->
+
 </html>

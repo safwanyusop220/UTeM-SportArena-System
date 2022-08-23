@@ -22,10 +22,10 @@ if (isset($_POST['btnSubmit'])) {
 
             //execute
             if (mysqli_stmt_execute ($stmt)){
-                echo "<script>alert('Successfully booking facility');window.location.href='../student/student-facility-list.php'</script>";
+                echo "<script>alert('Successfully request for booking, Wait for approval from Staff');window.location.href='../student/student-facility-list.php'</script>";
             }
             else {
-                echo "<script>alert('Sorry, your databse problem ');window.location.href='../student/student-facility-list.php'</script>";
+                echo "<script>alert('Sorry, your database problem ');window.location.href='../student/student-facility-list.php'</script>";
             }
 
 

@@ -17,7 +17,7 @@ if (isset($_GET['delete'])) {
         //  Querry Delete
         $sql = "DELETE FROM student where id = '$id'";
         $result = mysqli_query( $conn, $sql);
-        echo "<script>alert('Data has been delete !');window.location.href='staff-registered-student.php'</script>";
+        echo "<script>alert('Student data has successfully deleted !');window.location.href='staff-registered-student.php'</script>";
     }
     else {
         echo "<script>alert('problem has occur with database 1 !');window.location.href='staff-registered-student.php'</script>";

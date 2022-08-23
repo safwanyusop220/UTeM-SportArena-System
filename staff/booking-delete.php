@@ -17,7 +17,7 @@ if (isset($_GET['delete'])) {
         //  Querry Delete
         $sql = "DELETE FROM booking where id = '$id'";
         $result = mysqli_query( $conn, $sql);
-        echo "<script>alert('Data has been delete !');window.location.href='staff-booking-list.php'</script>";
+        echo "<script>alert('Your booking request is successfully cancel !');window.location.href='staff-booking-list.php'</script>";
     }
     else {
         echo "<script>alert('problem has occur with database 1 !');window.location.href='staff-booking-list.php'</script>";
