@@ -13,7 +13,7 @@ Web based system for UTeM student to book Sport Facility
 
 ## Registration Page
 
-![image](https://user-images.githubusercontent.com/80865545/184347681-b73bca20-7a5f-4c5e-8ac8-61205da319ca.png)
+![image](https://user-images.githubusercontent.com/80865545/186140479-2c15f262-53df-41ac-8cd2-d456b2ad33fd.png)
 
 
 ## Admin Module
