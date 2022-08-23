@@ -27,8 +27,7 @@ Web based system for UTeM student to book Sport Facility
 
 
 *Staff Module*
-
-![image](https://user-images.githubusercontent.com/80865545/184348033-53857750-c181-410a-94c0-79dfa619b9da.png)
+![image](https://user-images.githubusercontent.com/80865545/186131303-e42837b4-ca07-4331-8387-b09c942486c3.png)
 
 ![image](https://user-images.githubusercontent.com/80865545/184348066-4cb4b9e6-4555-4f09-96f4-378ec4f93bf1.png)
 
