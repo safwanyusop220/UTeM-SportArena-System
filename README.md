@@ -26,8 +26,6 @@ Web based system for UTeM student to book Sport Facility
 
 ![image](https://user-images.githubusercontent.com/80865545/186135667-341cef4c-950f-4796-8b25-670a4bd5e932.png)
 
-![image](https://user-images.githubusercontent.com/80865545/186135825-d3308dca-3605-4bda-a9df-fe5791111a17.png)
-
 ![image](https://user-images.githubusercontent.com/80865545/190326176-d6b6f5dd-cd72-4e84-ab20-4c1faa22e330.png)
 
 ![image](https://user-images.githubusercontent.com/80865545/186136146-0848dc99-dd00-40e8-b84d-dbb62d42f706.png)
